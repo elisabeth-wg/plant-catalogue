@@ -1,0 +1,14 @@
+h1 {
+    /*Selecting the h1 tags in the ejs file*/
+    color: red;
+    /*Changes the text color to red*/
+}
+
+/*Closing the block*/
+.completed {
+    /*Selecting the class noted*/
+    color: gray;
+    /*Changing the text color to gray*/
+    text-decoration: line-through;
+    /*Add a line through the text*/
+}
